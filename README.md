@@ -1,4 +1,4 @@
-[<img align="right" width="200" height="200" src="https://raw.githubusercontent.com/deckerweb/deckerweb/refs/heads/main/ddw-plugins.svg" />](https://github.com/deckerweb?tab=repositories)
+[<img align="right" width="250" height="250" src="https://raw.githubusercontent.com/deckerweb/deckerweb/refs/heads/main/ddw-plugins.svg" />](https://github.com/deckerweb?tab=repositories)
 
 ### Hi there! 👋
 
